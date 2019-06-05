@@ -12,7 +12,3 @@
 Για την εκκίνηση του webserver μέσω του τερματικού των Linux γίνεται εντός του φακέλου make-linux με την εντολή ./webserver <appnum> (π.χ. ./webserver 20000).
 Για την εκκίνηση του webclient μέσω του τερματικού των Linux γίνεται εντός του φακέλου make-linux με την εντολή ./webclient <compname> <path> <appnum> (π.χ. ./webclient localhost / 20000), όπως επίσης και μέσω ενός browser γράφοντας την διεύθυνση http://localhost:<appnum> <path> (π.χ. http://localhost:20000/). 
 
-Ονομ/νυμο: Ιακωβίδης Ευστάθιος
-Α.Μ.: dai17168
-
-
