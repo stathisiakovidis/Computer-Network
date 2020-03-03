@@ -1,5 +1,5 @@
-##Project 1
-======
+## Project 1
+------
 
 Η παρούσα εργασία αποτελεί μία τροποποίηση του απλοϊκού webserver του project cnaiapi. Ακόμη τροποποιήθηκε η βιβλιοθήκη cnaiapi.h όπως και το make-linux. Τα exe αρχεία και οι βιβλιοθήκες δημιουργήθηκαν στο περιβάλλον Linux.  Η δουλειά του webserver της εργασίας είναι να εμφανίζει στον browser (cmd ή περιηγητή) του πελάτη (webclient) έναν link μέσω του οποίου γίνεται λήψη του video της σελίδας → http://users.uom.gr/~pfoul/net_test1.html . 
 
